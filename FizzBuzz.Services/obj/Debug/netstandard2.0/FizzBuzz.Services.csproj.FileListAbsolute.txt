@@ -1,0 +1,8 @@
+C:\Development\fizz-buzz\FizzBuzz.Services\bin\Debug\netstandard2.0\FizzBuzz.Services.deps.json
+C:\Development\fizz-buzz\FizzBuzz.Services\bin\Debug\netstandard2.0\FizzBuzz.Services.dll
+C:\Development\fizz-buzz\FizzBuzz.Services\bin\Debug\netstandard2.0\FizzBuzz.Services.pdb
+C:\Development\fizz-buzz\FizzBuzz.Services\obj\Debug\netstandard2.0\FizzBuzz.Services.csprojAssemblyReference.cache
+C:\Development\fizz-buzz\FizzBuzz.Services\obj\Debug\netstandard2.0\FizzBuzz.Services.AssemblyInfoInputs.cache
+C:\Development\fizz-buzz\FizzBuzz.Services\obj\Debug\netstandard2.0\FizzBuzz.Services.AssemblyInfo.cs
+C:\Development\fizz-buzz\FizzBuzz.Services\obj\Debug\netstandard2.0\FizzBuzz.Services.dll
+C:\Development\fizz-buzz\FizzBuzz.Services\obj\Debug\netstandard2.0\FizzBuzz.Services.pdb

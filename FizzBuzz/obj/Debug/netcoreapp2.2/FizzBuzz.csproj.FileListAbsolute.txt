@@ -1,0 +1,13 @@
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.deps.json
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.json
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.dev.json
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Services.dll
+C:\Development\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Services.pdb
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csprojAssemblyReference.cache
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfoInputs.cache
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfo.cs
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csproj.CopyComplete
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Development\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.pdb
